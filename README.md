@@ -54,6 +54,18 @@ Os tipos primitivos de dados da linguagem Java são oito:
 
 Cada um destes tipos primitivos tem um tamanho fixo na memória e não são objetos.
 
+## Classe String
+
+Em Java, a classe String é fundamental para representar e manipular sequências de caracteres, ou seja, textos. Ela é uma classe imutável, o que significa que, uma vez criada, a sua sequência de caracteres não pode ser alterada. Para criar uma string, pode usar um literal (por exemplo, "Olá, mundo!") ou o construtor da classe String.
+
+```bash
+    String texto = "Este é um exemplo de string literal.";
+```
+
+```bash
+    String saudacao = new String("Olá, mundo!");
+```
+
 
 
 ## Stack utilizada
