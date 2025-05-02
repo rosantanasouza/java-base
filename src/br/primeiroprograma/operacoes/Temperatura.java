@@ -3,7 +3,7 @@ package br.primeiroprograma.operacoes;
 public class Temperatura {
     public static void main(String[] args) {
 
-        System.out.println("Bem-vindo ao conversor de temperatudoa");
+        System.out.println("Bem-vindo ao conversor de temperatura");
         System.out.println("Aqui vamos mostrar a conversão de temperatuda de graus celsius para Fahrenheit");
         System.out.println("Abaixo temos a temperatura calculada com base na temperatura celsius digitada.\n");
 
